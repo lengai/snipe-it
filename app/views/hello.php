@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <title>Laravel PHP Framework</title>
     <style>
-        @import url(//fonts.googleapis.com/css?family=Lato:300,400,700);
+        #@import url(//fonts.googleapis.com/css?family=Lato:300,400,700);
+        @import url(//fonts.useso.com/css?family=Lato:300,400,700);
 
         body {
             margin:0;
